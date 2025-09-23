@@ -48,12 +48,13 @@ How to Run
 ----------
 1. Clone the repo:
    git clone https://github.com/harshpatel5/Architecture_assignment1.git
+   
    cd Architecture_assignment1
 
-2. Compile the Java files:
+3. Compile the Java files:
    javac src/*.java
 
-3. Run the program:
+4. Run the program:
    java -cp src TestDriver
 
 Concepts Covered
