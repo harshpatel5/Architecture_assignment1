@@ -31,6 +31,10 @@ Architecture_assignment1/
 - bulb.txt 
 - lock.txt
 
+## Project Screenshots
+
+- `screenshots/` – Contains output screenshots of the program.  
+- `UML_diagram/` – Contains the UML diagram image of the project.
 
 Example Input
 -------------
@@ -43,6 +47,10 @@ lock.txt
 Output Screenshots
 ------------------
 ![Program Output](screenshots/output.png)
+
+UML Diagram
+------------------
+![Program Output](UML_diagram/question1.png)
 
 How to Run
 ----------
