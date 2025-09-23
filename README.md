@@ -40,8 +40,8 @@ bulb.txt
 lock.txt
 69
 
-Screenshots
------------
+Output Screenshots
+------------------
 ![Program Output](screenshots/output.png)
 
 How to Run
