@@ -23,8 +23,7 @@ Architecture_assignment1/
   - BrandBFactory.java — Factory that creates Brand B devices  
   - SmartBulb.java — SmartBulb interface (setPowerUsage, showSpecs)  
   - SmartLock.java — SmartLock interface (setBatteryUsage, showSpecs)  
-  - SmartDeviceFactory.java — SmartDeviceFactory interface (createBulb, createLock)  
-  - Main.java — 
+  - SmartDeviceFactory.java — SmartDeviceFactory interface (createBulb, createLock)   
   - TestDriver.java — Test driver that demonstrates:  
     - Creating a Bulb from Brand A and setting power usage from bulb.txt  
     - Creating a Lock from Brand B and setting battery usage from lock.txt  
